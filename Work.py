@@ -11,3 +11,6 @@ house = [["hallway", hall],
 	["living room", liv], 
 	["bedroom", bed], 
 	["bathroom", bath]]
+
+
+house.append(['terrace', 20])
