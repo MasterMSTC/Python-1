@@ -1,6 +1,7 @@
 # Python
 
-https://colab.research.google.com/drive/1uAw7mJ1mnXuLbBBCnLpALem5G8yCE_yR
+
+https://drive.google.com/file/d/1uAw7mJ1mnXuLbBBCnLpALem5G8yCE_yR/view?usp=sharing
 
 
 Introduction to Python
