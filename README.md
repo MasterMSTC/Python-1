@@ -1,7 +1,7 @@
 # Python
 
 
-https://drive.google.com/file/d/1uAw7mJ1mnXuLbBBCnLpALem5G8yCE_yR/view?usp=sharing
+https://drive.google.com/file/d/1fbpDd3VffpLIs6PWjZnUoxBef4-oZHtk/view?usp=sharing
 
 
 Introduction to Python
